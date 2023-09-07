@@ -6,11 +6,11 @@
 2. Lưu Đức Thắng
 3. Khưu Văn Hòa
 
-<div style="margin-left:30; background-color: black">
-    <img src="https://github.com/PTPM-T5-A204-FurnitureStore/QuanLyNoiThat/assets/92535502/ed9aa603-441f-42c7-bf48-a2a83c7f6155" width="90px" height="150px" style="margin-left:20px" />
-    <img src="https://github.com/PTPM-T5-A204-FurnitureStore/QuanLyNoiThat/assets/92535502/ed9aa603-441f-42c7-bf48-a2a83c7f6155" width="90px" height="150px" style="margin-left:20px" />
-    <img src="https://github.com/PTPM-T5-A204-FurnitureStore/QuanLyNoiThat/assets/92535502/ed9aa603-441f-42c7-bf48-a2a83c7f6155" width="90px" height="150px" style="margin-left:20px" />
-</div>
+<p align="center">
+  <img width="100" height="150" src="https://github.com/PTPM-T5-A204-FurnitureStore/QuanLyNoiThat/assets/144312648/f458f913-e300-4b00-b515-721eeb16fa99">
+  <img width="100" height="150" src="https://github.com/PTPM-T5-A204-FurnitureStore/QuanLyNoiThat/assets/144312648/35e3b273-4791-4a88-ba2d-152114b1d524">
+  <img width="100" height="150" src="https://github.com/PTPM-T5-A204-FurnitureStore/QuanLyNoiThat/assets/144312648/ffc0cb5f-1d21-4eb0-990d-54aa303c3d8c">
+</p>
 
 
 
