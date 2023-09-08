@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_FurnitureShop_PM", "Project_FurnitureShop_PM\Project_FurnitureShop_PM.csproj", "{78414F63-1A05-4E46-8C58-2577E569C9E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FurnitureStore_API_PM", "FurnitureStore_API_PM\FurnitureStore_API_PM.csproj", "{30223D19-95CC-4317-90FC-6F493155F1A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78414F63-1A05-4E46-8C58-2577E569C9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78414F63-1A05-4E46-8C58-2577E569C9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78414F63-1A05-4E46-8C58-2577E569C9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78414F63-1A05-4E46-8C58-2577E569C9E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30223D19-95CC-4317-90FC-6F493155F1A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30223D19-95CC-4317-90FC-6F493155F1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30223D19-95CC-4317-90FC-6F493155F1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30223D19-95CC-4317-90FC-6F493155F1A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCA605E1-EA81-4097-950A-A2E6B0C55A58}
+	EndGlobalSection
+EndGlobal
