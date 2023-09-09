@@ -38,7 +38,6 @@ namespace FurnitureStore_API_PM.Controllers
 
 
         [HttpGet]
-        [Route("Get - list")]
         public IActionResult GetXuatXu()
         {
             string query = @"SELECT MaXuatXu, TenXuatXu FROM xuatxu";
@@ -70,7 +69,7 @@ namespace FurnitureStore_API_PM.Controllers
             return Ok(xuatXus);
         }
 
-        [Route("Post item")]
+        
         [HttpPost]
         public IActionResult PostXuatXu([FromBody] XuatXu xuatXu)
         {
@@ -105,7 +104,7 @@ namespace FurnitureStore_API_PM.Controllers
             }
         }
 
-        [Route("Delete item")]
+        
         [HttpDelete]
         public IActionResult DeleteXuatXu(int maXuatXu)
         {
@@ -138,7 +137,7 @@ namespace FurnitureStore_API_PM.Controllers
             }
         }
 
-        [Route("Update item")]
+        
         [HttpPut]
         public IActionResult PutXuatXu(int maXuatXu, [FromBody] XuatXu xuatXu)
         {

@@ -112,8 +112,3 @@ C:\Users\admin\Documents\GitHub\QuanLyNoiThat\Project_FurnitureShop_PM\Furniture
 C:\Users\admin\Documents\GitHub\QuanLyNoiThat\Project_FurnitureShop_PM\FurnitureStore_API_PM\obj\Debug\net6.0\FurnitureStore_API_PM.pdb
 C:\Users\admin\Documents\GitHub\QuanLyNoiThat\Project_FurnitureShop_PM\FurnitureStore_API_PM\obj\Debug\net6.0\FurnitureStore_API_PM.genruntimeconfig.cache
 C:\Users\admin\Documents\GitHub\QuanLyNoiThat\Project_FurnitureShop_PM\FurnitureStore_API_PM\obj\Debug\net6.0\ref\FurnitureStore_API_PM.dll
-C:\Users\admin\Documents\GitHub\QuanLyNoiThat\Project_FurnitureShop_PM\FurnitureStore_API_PM\obj\Debug\net6.0\staticwebassets\msbuild.FurnitureStore_API_PM.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\admin\Documents\GitHub\QuanLyNoiThat\Project_FurnitureShop_PM\FurnitureStore_API_PM\obj\Debug\net6.0\staticwebassets\msbuild.build.FurnitureStore_API_PM.props
-C:\Users\admin\Documents\GitHub\QuanLyNoiThat\Project_FurnitureShop_PM\FurnitureStore_API_PM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FurnitureStore_API_PM.props
-C:\Users\admin\Documents\GitHub\QuanLyNoiThat\Project_FurnitureShop_PM\FurnitureStore_API_PM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FurnitureStore_API_PM.props
-C:\Users\admin\Documents\GitHub\QuanLyNoiThat\Project_FurnitureShop_PM\FurnitureStore_API_PM\obj\Debug\net6.0\staticwebassets.pack.json
