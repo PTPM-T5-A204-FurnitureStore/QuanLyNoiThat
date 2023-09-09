@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vG8DFtYCaU4VJyuZ96gu+LJIDCDzYDh6p0yhQ9HH5aeon9PpBl7to4D73h9j3bWjf1lSU0e+kIJTB0Itymphpw==",
+  "dgSpecHash": "u7LISN43DCvllJgSVhXXw40nVsiDw2BpA6K1VpiURG9sw7OcSnm7tYaZjveMjyPI+FztvVHX8QedlkMu9qEQdA==",
   "success": true,
-  "projectFilePath": "D:\\C#_LTHDT\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Documents\\GitHub\\QuanLyNoiThat\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",

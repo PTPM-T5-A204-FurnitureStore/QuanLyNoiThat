@@ -1,49 +1,95 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Project_FurnitureShop_PM</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/Project_FurnitureShop_PM.styles.css" asp-append-version="true" />
-</head>
-<body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Project_FurnitureShop_PM</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-    </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - Project_FurnitureShop_PM - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
-    </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
+<head>
+	<meta charset="utf-8">
+	<title>Nội thất Chiến Thần</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Responsive Minimal Bootstrap Theme">
+	<meta name="keywords" content="onepage,responsive,minimal,bootstrap,theme">
+	<meta name="author" content="">
+
+	<!-- CSS Files
+	================================================== -->
+	<link rel="stylesheet" href="css/bootstrap.css" type="text/css">
+	<link rel="stylesheet" href="css/jpreloader.css" type="text/css">
+	<link rel="stylesheet" href="css/animate.css" type="text/css">
+	<link rel="stylesheet" href="css/plugin.css" type="text/css">
+	<link rel="stylesheet" href="css/owl.carousel.css" type="text/css">
+	<link rel="stylesheet" href="css/owl.theme.css" type="text/css">
+	<link rel="stylesheet" href="css/owl.transitions.css" type="text/css">
+	<link rel="stylesheet" href="css/magnific-popup.css" type="text/css">
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+
+
+	<!-- custom background -->
+	<link rel="stylesheet" href="css/bg.css" type="text/css">
+
+	<!-- color scheme -->
+	<link rel="stylesheet" href="css/color.css" type="text/css" id="colors">
+
+	<!-- load fonts -->
+	<link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.css" type="text/css">
+	<link rel="stylesheet" href="fonts/elegant_font/HTML_CSS/style.css" type="text/css">
+	<link rel="stylesheet" href="fonts/et-line-font/style.css" type="text/css">
+
+	<!-- revolution slider -->
+	<link rel="stylesheet" href="rs-plugin/css/settings.css" type="text/css">
+	<link rel="stylesheet" href="css/rev-settings.css" type="text/css">
+</head>
+
+<body id="homepage">
+
+	<div id="wrapper">
+
+		<!-- header begin -->
+		<header>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-11">
+						<!-- logo begin -->
+						<h1 id="logo">
+							<a href="index.html">
+								<img class="logo" src="images/lg.png" alt="" style="height:30px; width: 250px; text-align: left; float: left;">
+							</a>
+						</h1>
+						<!-- logo close -->
+						<!-- small button begin -->
+						<span id="menu-btn"></span>
+						<!-- small button close -->
+						<!-- mainmenu begin -->
+						<nav>
+							<ul id="mainmenu" style="margin-top: -5px">
+								<li>
+									<a href="index.html">Trang chủ</a>
+
+								</li>
+								<li><a href="projects.html">Dự Án</a></li>
+								<li>
+									<a href="services.html">Dịch vụ</a>
+									<ul>
+
+										<li><a href="service-2.html">Thiết kế Khách sạn</a></li>
+										<li><a href="service-3.html">Thiết kế Văn phòng</a></li>
+										<li><a href="service-4.html">Thiết kế Khu thương mại </a></li>
+									</ul>
+								</li>
+								<li><a href="about.html">Giới thiệu</a></li>
+								<li><a href="blog.html">Blog</a></li>
+								<li><a href="shop.html">Cửa hàng</a></li>
+								<li><a href="contact.html">Liên hệ</a></li>
+								<li><a href="DangNhap.html">Đăng Nhập</a></li>
+							</ul>
+						</nav>
+
+					</div>
+					<!-- mainmenu close -->
+
+				</div>
+			</div>
+		</header>
+
+		@RenderBody()
+	</div>
 </body>
-</html>
+<!-- header close -->
