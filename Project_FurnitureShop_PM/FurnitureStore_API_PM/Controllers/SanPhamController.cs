@@ -69,7 +69,6 @@ namespace FurnitureStore_API_PM.Controllers
                                     Hinh1 = !dataReader.IsDBNull(dataReader.GetOrdinal("Hinh1")) ? dataReader.GetString("Hinh1") : "default_path.jpg",
                                     Hinh2 = !dataReader.IsDBNull(dataReader.GetOrdinal("Hinh2")) ? dataReader.GetString("Hinh2") : "default_path.jpg",
                                     Hinh3 = !dataReader.IsDBNull(dataReader.GetOrdinal("Hinh3")) ? dataReader.GetString("Hinh3") : "default_path.jpg",
-
                                     KichThuoc = dataReader.GetString("KichThuoc"),
                                     MaLoai = dataReader.GetInt32("MaLoai"),
                                     MaXuatXu = dataReader.GetInt32("MaXuatXu"),
@@ -90,7 +89,7 @@ namespace FurnitureStore_API_PM.Controllers
             }
         }
 
-        //Post
+       
         [HttpPost]
         public IActionResult CreateSanPham([FromBody] SanPham sanPham)
         {
