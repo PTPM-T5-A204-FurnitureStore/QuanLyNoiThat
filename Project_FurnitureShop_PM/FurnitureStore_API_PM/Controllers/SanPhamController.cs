@@ -9,7 +9,7 @@ using System.Collections.Generic;
 
 namespace FurnitureStore_API_PM.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[Action]")]
     [ApiController]
     public class SanPhamController : ControllerBase
     {

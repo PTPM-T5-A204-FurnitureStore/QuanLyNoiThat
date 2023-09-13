@@ -11,7 +11,7 @@ using System.ComponentModel;
 
 namespace FurnitureStore_API_PM.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[Action]")]
     [ApiController]
     public class KhachHangController : ControllerBase
     {

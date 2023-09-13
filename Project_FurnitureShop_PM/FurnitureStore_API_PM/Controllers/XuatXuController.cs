@@ -6,7 +6,7 @@ using System.Data;
 
 namespace FurnitureStore_API_PM.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[Action]")]
     [ApiController]
     public class XuatXuController : ControllerBase
     {

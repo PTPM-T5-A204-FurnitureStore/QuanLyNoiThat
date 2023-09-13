@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Hoc\\Nam4\\pt\\doan\\QuanLyNoiThat\\Project_FurnitureShop_PM\\FurnitureStore_API_PM\\FurnitureStore_API_PM.csproj": {}
+    "C:\\Users\\admin\\Documents\\GitHub\\QuanLyNoiThat\\Project_FurnitureShop_PM\\FurnitureStore_API_PM\\FurnitureStore_API_PM.csproj": {}
   },
   "projects": {
-    "D:\\Hoc\\Nam4\\pt\\doan\\QuanLyNoiThat\\Project_FurnitureShop_PM\\FurnitureStore_API_PM\\FurnitureStore_API_PM.csproj": {
+    "C:\\Users\\admin\\Documents\\GitHub\\QuanLyNoiThat\\Project_FurnitureShop_PM\\FurnitureStore_API_PM\\FurnitureStore_API_PM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hoc\\Nam4\\pt\\doan\\QuanLyNoiThat\\Project_FurnitureShop_PM\\FurnitureStore_API_PM\\FurnitureStore_API_PM.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\QuanLyNoiThat\\Project_FurnitureShop_PM\\FurnitureStore_API_PM\\FurnitureStore_API_PM.csproj",
         "projectName": "FurnitureStore_API_PM",
-        "projectPath": "D:\\Hoc\\Nam4\\pt\\doan\\QuanLyNoiThat\\Project_FurnitureShop_PM\\FurnitureStore_API_PM\\FurnitureStore_API_PM.csproj",
-        "packagesPath": "C:\\Users\\Luu Thang\\.nuget\\packages\\",
-        "outputPath": "D:\\Hoc\\Nam4\\pt\\doan\\QuanLyNoiThat\\Project_FurnitureShop_PM\\FurnitureStore_API_PM\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\QuanLyNoiThat\\Project_FurnitureShop_PM\\FurnitureStore_API_PM\\FurnitureStore_API_PM.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\QuanLyNoiThat\\Project_FurnitureShop_PM\\FurnitureStore_API_PM\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\vs2022\\3\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Luu Thang\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -80,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     }

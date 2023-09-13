@@ -6,7 +6,7 @@ using System.Data;
 
 namespace FurnitureStore_API_PM.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[Action]")]
     [ApiController]
     public class LoaiHangController : ControllerBase
     {
@@ -77,7 +77,7 @@ namespace FurnitureStore_API_PM.Controllers
         [HttpGet]
         public IActionResult GetLoaiHang()
         {
-            string query = @"SELECT MaLoai, TenLoai FROM loaihang";
+            string query = @"SELECT MaLoai, TenLoai, Anh FROM loaihang";
 
             List<LoaiHang> loaiHangs = new List<LoaiHang>();
 
@@ -96,7 +96,8 @@ namespace FurnitureStore_API_PM.Controllers
                             LoaiHang loaiHang = new LoaiHang
                             {
                                 MaLoai = myReader.GetInt32("MaLoai"),
-                                TenLoai = myReader.GetString("TenLoai")
+                                TenLoai = myReader.GetString("TenLoai"),
+                                Anh= myReader.GetString("Anh")
                             };
                             loaiHangs.Add(loaiHang);
                         }
