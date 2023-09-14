@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { APILoaiHangServiceService } from 'src/app/services/API_LoaiHang_Service/api-loai-hang-service.service';
 
+
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
@@ -8,33 +9,25 @@ import { APILoaiHangServiceService } from 'src/app/services/API_LoaiHang_Service
 })
 export class HomeComponent implements OnInit {
   data: any = [];
-  indicators: any = [];
-
-  constructor(private apiService: APILoaiHangServiceService) { }
+  roundedNum: number=5;
+  loopArray: any=[]; 
+  constructor(private apiService: APILoaiHangServiceService) {
+    
+   }
 
   ngOnInit() {
     this.getData();
   }
 
+
   getData() {
     console.log("call API");
     this.apiService.getData().subscribe((data) => {
       this.data = data;
-      this.generateIndicators();
+      var num = this.data.length / 5;
+      this.roundedNum = Math.round(num);
+      this.loopArray = Array(this.roundedNum).fill(0).map((x, i) => i);
     });
   }
 
-  generateIndicators() {
-    const totalCount = this.data.length;
-    const itemsPerSlide = 5;
-    const slideCount = Math.ceil(totalCount / itemsPerSlide);
-
-    this.indicators = Array.from({ length: slideCount }, (_, i) => i);
-  }
-
-  getDataSlice(slideIndex: number) {
-    const itemsPerSlide = 5;
-    const startIndex = slideIndex * itemsPerSlide;
-    return this.data.slice(startIndex, startIndex + itemsPerSlide);
-  }
 }
