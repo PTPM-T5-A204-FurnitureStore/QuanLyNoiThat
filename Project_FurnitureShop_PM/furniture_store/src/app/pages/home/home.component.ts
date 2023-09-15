@@ -9,7 +9,7 @@ import { APILoaiHangServiceService } from 'src/app/services/API_LoaiHang_Service
 })
 export class HomeComponent implements OnInit {
   data: any = [];
-  roundedNum: number=5;
+  roundedNum: number=0;
   loopArray: any=[]; 
   constructor(private apiService: APILoaiHangServiceService) {
     

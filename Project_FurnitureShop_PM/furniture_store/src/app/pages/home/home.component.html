@@ -41,12 +41,15 @@
 
 
 <ngb-carousel class="px-5" *ngIf="data">
-  <ng-template ngbSlide *ngFor="let index of loopArray; let i = index">
-    <div class="d-flex ">
-      <div *ngFor="let item of data" class="picsum-img-wrapper w-[100px]">
-        <img class="w-full h-[250px]" src="./assets/images/{{item.anh}}">
+  <ng-template class="h-[350px]" ngbSlide *ngFor="let index of loopArray; let i = index"> 
+    <div class="d-flex gap-x-5">
+      <div  *ngFor="let item of data.slice(i * 5, (i + 1) * 5)" class="picsum-img-wrapper  w-100 h-full  ">
+        <img class="w-full h-[250px]" height="150px" src="./assets/images/{{item.anh}}">
         {{item.tenLoai}}
       </div>
     </div>
   </ng-template>
 </ngb-carousel>
+
+<br>
+<br>
