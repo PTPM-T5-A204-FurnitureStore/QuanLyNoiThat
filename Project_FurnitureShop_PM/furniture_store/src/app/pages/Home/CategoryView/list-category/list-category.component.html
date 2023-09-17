@@ -1,0 +1,15 @@
+<div class="px-5">
+    <h5>Product Categories</h5>
+  </div>
+  
+  <ngb-carousel class="px-5" *ngIf="listCategory">
+    <ng-template class="h-[350px]" ngbSlide *ngFor="let index of loopArray; let i = index"> 
+      <div class="flex gap-x-5 ">
+        <div  *ngFor="let item of listCategory.slice(i * 5, (i + 1) * 5)" class="picsum-img-wrapper  w-100 h-full  ">
+          <img class="w-full h-[250px]" height="150px" src="./assets/images/{{item.anh}}">
+          {{item.tenLoai}}
+        </div>
+      </div>
+    </ng-template>
+  </ngb-carousel>
+  

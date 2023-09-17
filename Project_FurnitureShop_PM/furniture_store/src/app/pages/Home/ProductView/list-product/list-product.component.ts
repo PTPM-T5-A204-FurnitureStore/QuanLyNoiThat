@@ -1,14 +1,13 @@
 import { Component, OnInit } from '@angular/core';
-
 import { APISanPhamServiceService } from 'src/app/services/API_SanPham_Service/api-san-pham-service.service';
 
 @Component({
-  selector: 'app-home',
-  templateUrl: './home.component.html',
-  styleUrls: ['./home.component.css']
+  selector: 'app-list-product',
+  templateUrl: './list-product.component.html',
+  styleUrls: ['./list-product.component.css']
 })
-export class HomeComponent implements OnInit {
- 
+export class ListProductComponent implements OnInit{
+
   listProduct:any=[];
   roundedNum!: number;
   loopArray: any=[]; 
@@ -25,9 +24,6 @@ export class HomeComponent implements OnInit {
     this.getListProduct();
   }
 
- 
- 
-
   getListProduct()
   {
     console.log("call API");
@@ -38,5 +34,4 @@ export class HomeComponent implements OnInit {
       this.loopArray = Array(this.roundedNum).fill(0).map((x, i) => i);
     });
   }
-
 }

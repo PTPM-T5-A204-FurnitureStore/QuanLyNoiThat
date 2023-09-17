@@ -5,15 +5,15 @@ import { HttpClient } from '@angular/common/http'; // Import HttpClient thay vì
   providedIn: 'root'
 })
 export class APILoaiHangServiceService {
-  private apiUrl = 'https://localhost:7053/api/LoaiHang/GetLoaiHang'; 
+  private apiUrl = 'https://localhost:7053/api/LoaiHang'; 
 
   constructor(private http: HttpClient) { // Sửa HttpClientModule thành HttpClient
 
   }
 
   getData() {
-    console.log("call API in service")
-    return this.http.get(`${this.apiUrl}`); // Sửa lại endpoint
+    console.log("call API Category in service")
+    return this.http.get(`${this.apiUrl}/GetLoaiHang`); 
    
   }
 }
