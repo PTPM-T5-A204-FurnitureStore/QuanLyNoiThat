@@ -196,6 +196,55 @@ namespace FurnitureStore_API_PM.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, "Lỗi khi xóa khách hàng" + ex.Message);
             }
         }
+
+
+        [HttpGet]
+        public IActionResult GetLoginKhachHang(string account, string password)
+        {
+            try
+            {
+                string connectionString = _configuration.GetConnectionString("DefaultConnection");
+                using (MySqlConnection connection = new MySqlConnection(connectionString))
+                {
+                    connection.Open();
+
+                    string query = @"SELECT * FROM khachhang WHERE TaiKhoan = @account AND MatKhau = @password";
+
+                    using (MySqlCommand cmd = new MySqlCommand(query, connection))
+                    {
+                        cmd.Parameters.AddWithValue("@account", account);
+                        cmd.Parameters.AddWithValue("@password", password);
+
+                        using (MySqlDataReader dataReader = cmd.ExecuteReader())
+                        {
+                            List<KhachHang> khachHangs = new List<KhachHang>();
+                            while (dataReader.Read())
+                            {
+                                KhachHang khachHang = new KhachHang
+                                {
+                                    MaKH = dataReader.GetInt32("MaKH"),
+                                    TenKH = dataReader.GetString("TenKH"),
+                                    SDT = dataReader.GetString("SDT"),
+                                    DiaChi = dataReader.GetString("DiaChi"),
+                                    TaiKhoan = dataReader.GetString("TaiKhoan"),
+                                    MatKhau = dataReader.GetString("MatKhau")
+                                };
+                                khachHangs.Add(khachHang);
+                            }
+
+                            return Ok(khachHangs);
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Lỗi khi truy xuất dữ liệu :" + ex.Message);
+            }
+        }
+
+
+
     }
 
     // các phương thức khác ..........

@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="  h-[400px] mt-2 ">
+    <div class="row-span-2 h-full">
+        <div class="h-full w-full">
+        <video autoplay loop muted class="w-full h-full object-cover min-h-[400px]">
+            <source src="./Images/advert.mp4">
+        </video>
+    </div></div>
+    
+    
+  </div>
+<br><br>
+
+<div class="px-5 ">
+	<p class="mb-0">  YOUR FAVES, MAKE AFFORDABLE</p>
+	<h2>GET THE NOW, PAY LATER</h2>
+	<div class="w-full h-[50px] px-10 py-2 bg-black text-white text-2xl flex justify-center items-center">
+		EXPLORE NOW
+	</div>
+</div>
+<br>
+<br>
+@await Component.InvokeAsync("Category")
+
+<div>
+  <video autoplay loop muted class="w-full h-[150px] object-cover ">
+    <source src="~/Images/decoration.mp4">
+</video>
+</div>
+<br/>
+<br />
+<div class="px-5">
+    <h5>Product List</h5>
+</div>
+
+
+@await Component.InvokeAsync("ListProduct")
+<br/>
+<br />
+<div class="flex items-center justify-center ">
+	<button type="button" class="btn btn-outline-secondary  mx-auto w-[500px]">See More Items</button>
+</div>
