@@ -25,6 +25,7 @@ namespace WebsiteNoiThat.Controllers
         public async Task<ActionResult> Login(string currentUrl)
         {
             HttpContext.Session.SetString("returnCurrentUrl", currentUrl);
+            
             return View();
         }
 
@@ -37,18 +38,23 @@ namespace WebsiteNoiThat.Controllers
             {
                 List<KhachHang> listKH = new List<KhachHang>(); 
                 string data = await response.Content.ReadAsStringAsync();
-                listKH = JsonConvert.DeserializeObject<List<KhachHang>>(data);
-                HttpContext.Session.SetString("IDCustomer", listKH[0].MaKH.ToString());
+                if(data != "[]")
+                {
+                    listKH = JsonConvert.DeserializeObject<List<KhachHang>>(data);
+                    HttpContext.Session.SetString("IDCustomer", listKH[0].MaKH.ToString());
 
-                string url= HttpContext.Session.GetString("returnCurrentUrl"); 
+                    string url = HttpContext.Session.GetString("returnCurrentUrl");
+
+                    return Redirect(url);
+                }
+                else
+                {
+                    ViewBag.UserName = "Tài khoản hoặc mật khẩu sai";
+                    return View();
+                }
                 
-                return Redirect(url);
             }
-            else
-            {
-               
-
-            }
+           
 
             return View();
         }

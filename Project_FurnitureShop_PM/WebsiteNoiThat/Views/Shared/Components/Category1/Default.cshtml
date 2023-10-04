@@ -1,0 +1,12 @@
+﻿@model IEnumerable<WebsiteNoiThat.Models.LoaiHang>
+<ul class="hidden lg:flex lg:itens-center lg:justify-center lg:gap-4 uppercase text-sm text-gray-500 font-medium">
+	@{
+		foreach (var item in Model)
+		{
+			<li class="chin-menu">
+				<a href="#" class="">@item.TenLoai1</a>
+			</li>
+		}
+	}
+
+</ul>

@@ -89,7 +89,61 @@ namespace FurnitureStore_API_PM.Controllers
             }
         }
 
-       
+
+
+        //Get
+        [HttpGet]
+        public IActionResult GetSanPhambyidLoaiHang(string idloai)
+        {
+            try
+            {
+                string connectionString = _configuration.GetConnectionString("DefaultConnection");
+                using (MySqlConnection connection = new MySqlConnection(connectionString))
+                {
+                    connection.Open();
+
+                    string query = @"SELECT * FROM sanpham WHERE MaLoai=@id";
+                    using (MySqlCommand cmd = new MySqlCommand(query, connection))
+                    {
+                        cmd.Parameters.AddWithValue("@id", idloai);
+                        using (MySqlDataReader dataReader = cmd.ExecuteReader())
+                        {
+                            List<SanPham> sanPhams = new List<SanPham>();
+
+                            while (dataReader.Read())
+                            {
+                                SanPham sanPham = new SanPham
+                                {
+                                    MaSP = dataReader.GetInt32("MaSP"),
+                                    GiaBan = dataReader.GetDecimal("GiaBan"),
+                                    TenSanPham = dataReader.GetString("TenSanPham"),
+                                    MauSac = dataReader.GetString("MauSac"),
+                                    MoTa = dataReader.GetString("MoTa"),
+                                    SoLuongTon = dataReader.GetInt32("SoLuongTon"),
+                                    Hinh1 = !dataReader.IsDBNull(dataReader.GetOrdinal("Hinh1")) ? dataReader.GetString("Hinh1") : "default_path.jpg",
+                                    Hinh2 = !dataReader.IsDBNull(dataReader.GetOrdinal("Hinh2")) ? dataReader.GetString("Hinh2") : "default_path.jpg",
+                                    Hinh3 = !dataReader.IsDBNull(dataReader.GetOrdinal("Hinh3")) ? dataReader.GetString("Hinh3") : "default_path.jpg",
+                                    KichThuoc = dataReader.GetString("KichThuoc"),
+                                    MaLoai = dataReader.GetInt32("MaLoai"),
+                                    MaXuatXu = dataReader.GetInt32("MaXuatXu"),
+                                    MaChatLieu = dataReader.GetInt32("MaChatLieu")
+                                };
+
+                                sanPhams.Add(sanPham);
+                            }
+
+                            return Ok(sanPhams);
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Lỗi khi truy xuất dữ liệu: " + ex.Message);
+            }
+        }
+
+
         [HttpPost]
         public IActionResult CreateSanPham([FromBody] SanPham sanPham)
         {

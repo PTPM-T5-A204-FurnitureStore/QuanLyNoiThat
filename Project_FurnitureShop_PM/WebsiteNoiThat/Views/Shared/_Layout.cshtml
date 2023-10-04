@@ -2,23 +2,16 @@
 @{
 	var sessionCustomer = ViewContext.HttpContext.Session.GetString("IDCustomer");
 
-	//string currentAction = ViewContext.RouteData.Values["action"].ToString();
-	//string currentController = ViewContext.RouteData.Values["controller"].ToString();
-	//string scheme = HttpContext.Request.Scheme; // Lấy giao thức (http hoặc https)
-	//string returnUrl = Url.Action(currentAction, currentController, null, scheme); // Tạo returnUrl
-	//string currentUrl = Context.Request.Headers["Referer"].ToString();
-	
-
 
 }
 
 
 <script>
-    function sendCurrentUrl() {
-        var currentUrl = window.location.href;
-        var link = document.getElementById("sendUrl");
-        link.href = "@Url.Action("Login", "Account")?currentUrl=" + encodeURIComponent(currentUrl);
-    }
+	function sendCurrentUrl() {
+		var currentUrl = window.location.href;
+		var link = document.getElementById("sendUrl");
+		link.href = "@Url.Action("Login", "Account")?currentUrl=" + encodeURIComponent(currentUrl);
+	}
 </script>
 <!DOCTYPE html>
 <html lang="en">
@@ -87,9 +80,9 @@
 
 				@if (sessionCustomer == null)// chưa đăng nhập
 				{
-					<div class=" ml-5">
+					<div class=" ">
 
-					<a id="sendUrl" onclick="sendCurrentUrl()">
+						<a id="sendUrl" onclick="sendCurrentUrl()">
 							<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
 								<path stroke-linecap="round" stroke-linejoin="round" d="M17.982 18.725A7.488 7.488 0 0012 15.75a7.488 7.488 0 00-5.982 2.975m11.963 0a9 9 0 10-11.963 0m11.963 0A8.966 8.966 0 0112 21a8.966 8.966 0 01-5.982-2.275M15 9.75a3 3 0 11-6 0 3 3 0 016 0z" />
 							</svg>
@@ -107,6 +100,17 @@
 						</a>
 
 					</div>
+
+					<div>
+						<a href="@Url.Action("", "")">
+							<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 ml-[10px]">
+								<path stroke-linecap="round" stroke-linejoin="round" d="M15.75 9V5.25A2.25 2.25 0 0013.5 3h-6a2.25 2.25 0 00-2.25 2.25v13.5A2.25 2.25 0 007.5 21h6a2.25 2.25 0 002.25-2.25V15m3 0l3-3m0 0l-3-3m3 3H9" />
+							</svg>
+
+						</a>
+
+					</div>
+
 				}
 
 
@@ -116,7 +120,7 @@
 
 		<div class=" border-[2px] ">
 
-			<ul class="flex justify-center">
+			<ul class="flex justify-center mb-0 ">
 				<li class="px-5 py-1">HOME </li>
 				<li class="px-5 py-1">PRODUCT</li>
 				<li class="px-5 py-1">DESIGN PROJECT </li>

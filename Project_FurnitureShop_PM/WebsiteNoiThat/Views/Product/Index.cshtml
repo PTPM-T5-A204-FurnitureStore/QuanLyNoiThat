@@ -1,0 +1,24 @@
+﻿@model IEnumerable<WebsiteNoiThat.Models.LoaiHang>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@foreach (var item in Model)
+{
+	if (Model != null && Model.Any() && item.MaLoai1 != null)
+	{
+		// Gọi thành phần giao diện và truyền categoryId
+		
+		<img src="@Url.Content("~/Images/pexels-photo-10410095.jpeg")" class="px-1 w-full h-[150px] bg-cover bg-center text-white py-2" alt="" />
+		@await Component.InvokeAsync("Category1")
+		
+
+		@await Component.InvokeAsync("ListProductByID", new { categoryId = item.MaLoai1 })
+	}
+	else
+	{
+		<p>Sản phẩm đang cập nhật</p>
+	}
+}
+

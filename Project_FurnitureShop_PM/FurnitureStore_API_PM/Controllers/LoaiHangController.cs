@@ -109,6 +109,42 @@ namespace FurnitureStore_API_PM.Controllers
         }
 
 
+        [HttpGet]
+        public IActionResult GetLoaiHangbyID(string id)
+        {
+            string query = @"SELECT MaLoai, TenLoai, Anh FROM loaihang WHERE MaLoai=@id";
+
+            List<LoaiHang> loaiHangs = new List<LoaiHang>();
+
+
+
+            using (MySqlConnection mycon = new MySqlConnection(_sqlDataSource))
+            {
+                mycon.Open();
+
+                using (MySqlCommand myCommand = new MySqlCommand(query, mycon))
+                {
+                    myCommand.Parameters.AddWithValue("@id", id);
+                    using (MySqlDataReader myReader = myCommand.ExecuteReader())
+                    {
+                        while (myReader.Read())
+                        {
+                            LoaiHang loaiHang = new LoaiHang
+                            {
+                                MaLoai = myReader.GetInt32("MaLoai"),
+                                TenLoai = myReader.GetString("TenLoai"),
+                                Anh = myReader.GetString("Anh")
+                            };
+                            loaiHangs.Add(loaiHang);
+                        }
+                    }
+                }
+            }
+
+            return Ok(loaiHangs);
+        }
+
+
         [HttpPost]
         public IActionResult CreateLoaiHang([FromBody] LoaiHang newLoaiHang)
         {

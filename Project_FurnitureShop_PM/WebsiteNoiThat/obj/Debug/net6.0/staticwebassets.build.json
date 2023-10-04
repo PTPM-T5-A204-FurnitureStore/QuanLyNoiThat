@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "q9nR3RTD6JkasDC9pvKthVP3+hgjkSNPZBaQOw3n3jk=",
+  "Hash": "Zs7NGDRhUQ5eLnunNgG7kmJITYTsyQoXCgADgE429DU=",
   "Source": "WebsiteNoiThat",
   "BasePath": "_content/WebsiteNoiThat",
   "Mode": "Default",
@@ -287,6 +287,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\outdoor.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\admin\\Documents\\GitHub\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\pexels-photo-10410095.jpeg",
+      "SourceId": "WebsiteNoiThat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\admin\\Documents\\GitHub\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "BasePath": "_content/WebsiteNoiThat",
+      "RelativePath": "Images/pexels-photo-10410095.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\pexels-photo-10410095.jpeg"
     },
     {
       "Identity": "C:\\Users\\admin\\Documents\\GitHub\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\sofa.jpg",

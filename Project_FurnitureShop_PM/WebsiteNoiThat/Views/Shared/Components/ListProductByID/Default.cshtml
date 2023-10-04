@@ -1,15 +1,27 @@
 ﻿@model IEnumerable<WebsiteNoiThat.Models.SanPham>
+<div class="flex grid grid-cols-4 ">
 
-@{
 
-}
+	<div class="col-span-1 flex ml-2">
+		<p>Sort by:</p>
+		<div class="dropdown">
+			<button class="bg-white ml-1 border-2 border-slate-900 dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				Please select one
+			</button>
+			<div class="dropdown-menu " aria-labelledby="dropdownMenuButton">
+				<li><a class="dropdown-item" href="#">More popular</a></li>
+				<li><a class="dropdown-item" href="#">Price (Ascending)</a></li>
+				<li><a class="dropdown-item" href="#">Price (Decending)</a></li>
+			</div>
+		</div>
+	</div>
 
-<div class="px-5 flex grid grid-cols-4 gap-[10px]">
-	@{
-		for(int i=0; i<10; i++)
+
+	<div class=" col-span-3 px-2 flex grid grid-cols-3 gap-[10px]">
+		@{
+		foreach (var item in Model)
 		{
-			var item = Model.ElementAt(i);
-			<a  href="@Url.Action("ProductByCategory","Home", new{ @categoryId=item.MaSP})">
+			//<a  href="@Url.Action("ProductByCategory","Home", new{ @categoryId=item.MaSP})">
 			<div class="shadow-lg bg-white border-2 h-[360px] w-full rounded-lg p-[10px]">
 				<img  src="~/Images/logon1.jpeg" class="w-full h-[200PX]    rounded-lg">
 				<div class="flex items-center ">
@@ -68,8 +80,12 @@
 
 				<button class="buy-button text-center  h-[30px]   px-5 w-full">See More</button>
 			</div>
-			</a>
+			//</a>
 			
 		}
 	}
+
+
+
+	</div>
 </div>

@@ -23,12 +23,12 @@
 									@for (int i = loopCount; i < totalCount && i < loopCount + itemsPerSlide; i++)
 									{
 										var item = Model.ElementAt(i);
-										//<a href="@Url.Action("ProductByCategory","Product", new{ @categoryId=item.id})">
+										<a href="@Url.Action("Index","Product", new{ @idLoaiHang=item.MaLoai1})">
 											<div class="bg-white  h-[380px] w-full p-[10px]">
 												<img class="w-full h-[250PX]" src="@Url.Content("~/Images/"+item.Anh1)">
 												<p class="font-Raleway font-semibold text-xl">@item.TenLoai1</p>
 											</div>
-										//</a>
+										</a>
 
 									}
 
