@@ -278,7 +278,88 @@ namespace FurnitureStore_API_PM.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, "Lỗi khi xóa sản phẩm: " + ex.Message);
             }
         }
+		//Filter 
+		[HttpGet("Filter")]
+		public IActionResult GetSanPhamByFilters(string idloai, decimal? minPrice, decimal? maxPrice, int? maChatLieu, int? maXuatXu, string sortOrder)
+		{
+			try
+			{
+				string connectionString = _configuration.GetConnectionString("DefaultConnection");
+				using (MySqlConnection connection = new MySqlConnection(connectionString))
+				{
+					connection.Open();
 
-        //thêm các phương thức khác nếu có...
-    }
+					string query = @"SELECT * FROM sanpham WHERE MaLoai = @idloai";
+
+					if (minPrice.HasValue)
+					{
+						query += " AND GiaBan >= @minPrice";
+					}
+
+					if (maxPrice.HasValue)
+					{
+						query += " AND GiaBan <= @maxPrice";
+					}
+
+					if (maChatLieu.HasValue)
+					{
+						query += " AND MaChatLieu = @maChatLieu";
+					}
+
+					if (maXuatXu.HasValue)
+					{
+						query += " AND MaXuatXu = @maXuatXu";
+					}
+					if (!string.IsNullOrEmpty(sortOrder))
+					{
+						if (sortOrder == "asc")
+						{
+							query += " ORDER BY GiaBan ASC";
+						}
+						else if (sortOrder == "desc")
+						{
+							query += " ORDER BY GiaBan DESC";
+						}
+					}
+
+					using (MySqlCommand cmd = new MySqlCommand(query, connection))
+					{
+						cmd.Parameters.AddWithValue("@idloai", idloai);
+						cmd.Parameters.AddWithValue("@minPrice", minPrice ?? (object)DBNull.Value);
+						cmd.Parameters.AddWithValue("@maxPrice", maxPrice ?? (object)DBNull.Value);
+						cmd.Parameters.AddWithValue("@maChatLieu", maChatLieu ?? (object)DBNull.Value);
+						cmd.Parameters.AddWithValue("@maXuatXu", maXuatXu ?? (object)DBNull.Value);
+
+						using (MySqlDataReader dataReader = cmd.ExecuteReader())
+						{
+							List<SanPham> sanPhams = new List<SanPham>();
+
+							while (dataReader.Read())
+							{
+								SanPham sanPham = new SanPham
+								{
+									MaSP = dataReader.GetInt32(dataReader.GetOrdinal("MaSP")),
+									GiaBan = dataReader.GetDecimal(dataReader.GetOrdinal("GiaBan")),
+									TenSanPham = dataReader.GetString(dataReader.GetOrdinal("TenSanPham")),
+									MauSac = dataReader.GetString(dataReader.GetOrdinal("MauSac")),
+									MaLoai = dataReader.GetInt32(dataReader.GetOrdinal("MaLoai")),
+									MaXuatXu = dataReader.GetInt32(dataReader.GetOrdinal("MaXuatXu")),
+									MaChatLieu = dataReader.GetInt32(dataReader.GetOrdinal("MaChatLieu")),
+								};
+
+								sanPhams.Add(sanPham);
+							}
+
+							return Ok(sanPhams);
+						}
+					}
+				}
+			}
+			catch (Exception ex)
+			{
+				return StatusCode(StatusCodes.Status500InternalServerError, "Lỗi khi truy xuất dữ liệu: " + ex.Message);
+			}
+		}
+		//thêm các phương thức khác nếu có...
+	}
 }
