@@ -26,7 +26,7 @@ app.UseStaticFiles();
 app.UseSession();
 
 app.UseRouting();
-
+app.UseCors("MyCors");
 app.UseAuthorization();
 
 app.MapControllerRoute(

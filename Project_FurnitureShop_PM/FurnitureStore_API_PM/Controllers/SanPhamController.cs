@@ -280,7 +280,7 @@ namespace FurnitureStore_API_PM.Controllers
         }
 		//Filter 
 		[HttpGet("Filter")]
-		public IActionResult GetSanPhamByFilters(string idloai, decimal? minPrice, decimal? maxPrice, int? maChatLieu, int? maXuatXu, string sortOrder)
+		public IActionResult GetSanPhamByFilters(string idloai, decimal? minPrice, decimal? maxPrice, int? maChatLieu, int? maXuatXu, string? sortOrder)
 		{
 			try
 			{

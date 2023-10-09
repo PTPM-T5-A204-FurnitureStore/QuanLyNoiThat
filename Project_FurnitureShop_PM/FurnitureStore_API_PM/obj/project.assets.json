@@ -2302,11 +2302,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Hoc\\Nam4\\NoSQL\\duanmoi\\QuanLyNoiThat\\Project_FurnitureShop_PM\\FurnitureStore_API_PM\\FurnitureStore_API_PM.csproj",
+      "projectUniqueName": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\FurnitureStore_API_PM\\FurnitureStore_API_PM.csproj",
       "projectName": "FurnitureStore_API_PM",
-      "projectPath": "D:\\Hoc\\Nam4\\NoSQL\\duanmoi\\QuanLyNoiThat\\Project_FurnitureShop_PM\\FurnitureStore_API_PM\\FurnitureStore_API_PM.csproj",
+      "projectPath": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\FurnitureStore_API_PM\\FurnitureStore_API_PM.csproj",
       "packagesPath": "C:\\Users\\Luu Thang\\.nuget\\packages\\",
-      "outputPath": "D:\\Hoc\\Nam4\\NoSQL\\duanmoi\\QuanLyNoiThat\\Project_FurnitureShop_PM\\FurnitureStore_API_PM\\obj\\",
+      "outputPath": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\FurnitureStore_API_PM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\vs2022\\3\\NuGetPackages"
