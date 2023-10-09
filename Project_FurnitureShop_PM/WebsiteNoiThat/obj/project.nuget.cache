@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bia9za4473I1aHqgpMAZar0K8pD4UYywZpSM8F+hEYt2eVnpvc/7az7vU6yO8+0OuYaBrLkw2fF5+3CyKP1R9A==",
+  "dgSpecHash": "YVZ72M+huHxAXLWJDFZjsDsMuEN+Xzwv7ECiQgtrIyMNtxNZ0kb+5A8aXKiNvx7x2nFyrtrJpv0hutJkTK0NAQ==",
   "success": true,
-  "projectFilePath": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\WebsiteNoiThat.csproj",
+  "projectFilePath": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\WebsiteNoiThat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luu Thang\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Luu Thang\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

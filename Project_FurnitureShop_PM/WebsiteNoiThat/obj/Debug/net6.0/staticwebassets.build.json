@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SeXj1fg+nV8n3mstkyfGTC/7l2oSmPzbnAn9sXvf+Pw=",
+  "Hash": "XO78ujwCXARIwsTkcXNyQIEiIcISpH++EoT9YcQqFc0=",
   "Source": "WebsiteNoiThat",
   "BasePath": "_content/WebsiteNoiThat",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebsiteNoiThat\\wwwroot",
       "Source": "WebsiteNoiThat",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebsiteNoiThat.styles.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebsiteNoiThat.styles.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "WebsiteNoiThat.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebsiteNoiThat.styles.css"
+      "OriginalItemSpec": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebsiteNoiThat.styles.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebsiteNoiThat.bundle.scp.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebsiteNoiThat.bundle.scp.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "WebsiteNoiThat.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebsiteNoiThat.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebsiteNoiThat.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\css\\site.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\css\\styles.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\css\\styles.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\favicon.ico",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\0dede5311f00ca5e9311.jpg",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\0dede5311f00ca5e9311.jpg",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "Images/0dede5311f00ca5e9311.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\0dede5311f00ca5e9311.jpg"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\advert.mp4",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\advert.mp4",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "Images/advert.mp4",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\advert.mp4"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\armchair.jpg",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\armchair.jpg",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "Images/armchair.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\armchair.jpg"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\BarChair.jpg",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\BarChair.jpg",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "Images/BarChair.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\BarChair.jpg"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\beds.jpg",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\beds.jpg",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "Images/beds.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\beds.jpg"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\ConsoleTable.png",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\ConsoleTable.png",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "Images/ConsoleTable.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ConsoleTable.png"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\decoration.mp4",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\decoration.mp4",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "Images/decoration.mp4",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\decoration.mp4"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\lamps.jpg",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\lamps.jpg",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "Images/lamps.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\lamps.jpg"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\logon1.jpeg",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\logon1.jpeg",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "Images/logon1.jpeg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logon1.jpeg"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\logoo.png",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\logoo.png",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "Images/logoo.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logoo.png"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\outdoor.jpg",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\outdoor.jpg",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "Images/outdoor.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\outdoor.jpg"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\pexels-photo-10410095.jpeg",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\pexels-photo-10410095.jpeg",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "Images/pexels-photo-10410095.jpeg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\pexels-photo-10410095.jpeg"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\sofa.jpg",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\sofa.jpg",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "Images/sofa.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\sofa.jpg"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\televison.jpg",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\televison.jpg",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "Images/televison.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\televison.jpg"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\js\\site.js",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "WebsiteNoiThat",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\dn\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
+      "ContentRoot": "D:\\Hoc\\Nam4\\pt\\newday\\QuanLyNoiThat\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\",
       "BasePath": "_content/WebsiteNoiThat",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
