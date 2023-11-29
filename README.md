@@ -18,6 +18,7 @@
 <i>Thúc đẩy tăng trưởng:</i> Phần mềm cung cấp thông tin chi tiết về hiệu suất kinh doanh. Thông tin này có thể giúp chủ cửa hàng xác định các cơ hội để cải thiện doanh số bán hàng và lợi nhuận.</br></br>
 
 <b>Mục tiêu:</b> </br>
-Chưa biết
+Xây dựng được website dành cho khách hàng và application cho nhà quản lý
+
 
 <b>Chức năng:</b> </br>
